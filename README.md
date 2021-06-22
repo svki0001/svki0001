@@ -23,6 +23,7 @@
 <br>
 <br>
 <br>
+<br>
 <p align="center">
   📫 You can also contact me on <a href="https://www.linkedin.com/in/sven-kirtz" rel="nofollow noreferrer">
     <img alt="linkedin" src="https://i.stack.imgur.com/gVE0j.png"> LinkedIn</a>.
