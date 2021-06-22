@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="logo" width="250" src="https://raw.githubusercontent.com/svki0001/svki0001/main/img/logo_github.png">
+  <img alt="logo" width="210" src="https://raw.githubusercontent.com/svki0001/svki0001/main/img/logo_github.png">
 <p/>
 <h4 align="center">Hi there. <img height="20px" src="https://raw.githubusercontent.com/svki0001/svki0001/main/img/hand.gif"></h4>
 <p align="center">
