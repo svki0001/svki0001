@@ -1,5 +1,6 @@
 ### Hi there. <img height="20px" src="https://raw.githubusercontent.com/svki0001/svki0001/main/img/hand.gif">
 
+<img align="left" src="https://raw.githubusercontent.com/svki0001/svki0001/main/img/workingon.png">
 <!--
 **svki0001/svki0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
