@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. <img height="20px" src="https://raw.githubusercontent.com/svki0001/svki0001/main/img/hand.gif">
 
 <!--
 **svki0001/svki0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
