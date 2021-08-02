@@ -5,8 +5,7 @@
 <br>
 <img alt="working on" align="left" src="https://raw.githubusercontent.com/svki0001/svki0001/main/img/vr.png">
 <h4>💻 Currently working on:</h4>
-<p>An interactive data visualisation web tool for german regional data in Unity 🎮.<br> 
-  A first version of this team project should be available somewhen in august this year.</p>
+<p>Some Unity project. More coming soon. Stay tuned! ;)</p>
 <br>
 <br>
 <img alt="topics" align="left" src="https://raw.githubusercontent.com/svki0001/svki0001/main/img/fly.png">
