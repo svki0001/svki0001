@@ -13,7 +13,7 @@
 <ul>
   <li>🌍 web technologies</li>
   <li>👩‍💻 Human-computer interaction</li>
-  <li>🕶 currently diving into VR/AR</li>
+  <li>🕶 Diving into VR/AR</li>
 </ul>
 <br>
 <br>
