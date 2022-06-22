@@ -1,8 +1,3 @@
-<p align="center">
-  <img alt="logo" width="210" src="https://raw.githubusercontent.com/svki0001/svki0001/main/img/logo_github.png">
-<p/>
-<p align="center">Full Stack Developer, occasionally working on some of my projects.</p>
-<br>
 <img alt="working on" align="left" src="https://raw.githubusercontent.com/svki0001/svki0001/main/img/vr.png">
 <h4>💻 Currently working on:</h4>
 <p>Very important TaskForce Space Projects</p>
