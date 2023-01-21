@@ -6,9 +6,8 @@
 <img alt="topics" align="left" src="https://raw.githubusercontent.com/svki0001/svki0001/main/img/fly.png">
 <h4>☕ My favortie topics to dive into:</h4>
 <ul>
-  <li>🌍 web technologies</li>
-  <li>👩‍💻 Human-computer interaction</li>
-  <li>🕶 Diving into VR/AR</li>
+  <li>🌍 app development</li>
+  <li>👩‍💻 human-computer interaction</li>
 </ul>
 <br>
 <br>
