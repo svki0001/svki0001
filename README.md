@@ -22,6 +22,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/svki0001/svki0001/main/img/fall.png">
 </p>
-<hr/>
+<!-- <hr/>
 
-![Sven Kirtz GitHub stats](https://github-readme-stats.vercel.app/api?username=svki0001&count_private=true&show_icons=true)
+![Sven Kirtz GitHub stats](https://github-readme-stats.vercel.app/api?username=svki0001&count_private=true&show_icons=true) -->
