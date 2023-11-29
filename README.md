@@ -8,6 +8,7 @@
 <ul>
   <li>🌍 app development</li>
   <li>👩‍💻 human-computer interaction</li>
+  <li>📈 project management</li>
 </ul>
 <br>
 <br>
